@@ -21,7 +21,7 @@ import urllib.request
 
 
 
-temp="\\temp.csv"
+temp='\\temp.csv'
 
 os.chdir(r'C:\Users\LENOVO\Desktop\heroku data preprocessing aplication') 
 
