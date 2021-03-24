@@ -23,14 +23,14 @@ import urllib.request
 
 temp='\\temp.csv'
 
-os.chdir(r'C:\Users\LENOVO\Desktop\heroku data preprocessing aplication') 
+#os.chdir(r'C:\Users\LENOVO\Desktop\heroku data preprocessing aplication') 
 
 
 path=os.getcwd()
 
 path=path+temp
 
-path=(r"C:\Users\LENOVO\Desktop\heroku data preprocessing aplication\temp.csv")
+#path=(r"C:\Users\LENOVO\Desktop\heroku data preprocessing aplication\temp.csv")
 
 st.title("Data Preprocessing Application")   
 
